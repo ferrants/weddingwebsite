@@ -5,8 +5,8 @@ item: 1
 auto: true
 loop: true
 
-speed: 1000
-pause: 4000
+speed: 200
+pause: 6000
 pager: "false"
 controls: "false"
 ---
