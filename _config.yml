@@ -1,8 +1,7 @@
 theme: jekyll-theme-cayman
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "_slides"
     values:
       layout: "iframe"
