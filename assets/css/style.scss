@@ -4,3 +4,22 @@
 @import "{{ site.theme }}";
 
 
+.page-header {
+    padding: 3rem 6rem 8rem;
+    text-align: center;
+    background-color: #159957;
+    background-image: url(https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/14705728_515639005312275_1455…&_nc_ht=scontent-sea1-1.xx&oh=954c857…&oe=5C70B376);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-text-stroke-width: 2px;
+   -webkit-text-stroke-color: black;
+}
+
+.project-name {
+    font-size: 4rem;
+}
+
+.project-tagline {
+    font-size: 1.25rem;
+}
