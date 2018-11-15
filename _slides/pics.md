@@ -11,9 +11,8 @@ pager: "false"
 controls: "false"
 ---
 
-* ![Jackson Trip!](img/pic_jackson.jpg)
-* ![Jackson Trip!](img/img_jackson_2.jpg)
-* ![Butlington](img/img_burlington.jpg)
 * ![Us Skiing](img/pic_skiing.jpg)
+* ![Butlington](img/img_burlington.jpg)
+* ![Jackson Trip!](img/img_jackson_2.jpg)
 * ![Vermont](img/pic_zs_wedding.jpg)
 
