@@ -6,14 +6,19 @@ html {
 nav {
   background-color: rgba(21, 21, 23, 0.95);
   border-bottom: 1px solid #000;
-	position: fixed;
-	top: 0px;
-	left: 0px;
-	z-index: 1000;
+	/*position: fixed;*/
+	/*top: 0px;*/
+	/*left: 0px;*/
+	/*z-index: 1000;*/
 	height: 50px;
 	width: 100%;
 	margin: auto;
 	padding: 0px;
+}
+.nav-inner-wrapper {
+	max-width: 64rem;
+    width: 410px;
+    margin: 0 auto;
 }
 .nav-link {
 	display: inline-block;
@@ -26,7 +31,6 @@ nav {
 	text-decoration: none;
 	cursor: pointer;
 	background-repeat: no-repeat;
-	transition: opacity 150ms ease-in-out 0s;
 }
 .main-slides {
 	margin-top: 100px;
@@ -76,4 +80,23 @@ nav {
 	border-style: solid;
 	border-width: 1px;
 	padding: 7px;
+}
+.demo {
+    width: 100%;
+}
+.demo ul {
+    list-style: none outside none;
+    padding-left: 0;
+    margin-bottom:0;
+}
+.demo li {
+    display: block;
+    float: left;
+    margin-right: 6px;
+    cursor:pointer;
+}
+.demo img {
+    display: block;
+    height: auto;
+    max-width: 100%;
 }

@@ -1,0 +1,61 @@
+<div class="demo">
+    <ul id="lightSlider">
+        <li data-thumb="{{ site.github.url }}/assets/img/pic_skiing.jpg">
+            <img src="{{ site.github.url }}/assets/img/pic_skiing.jpg" />
+        </li>
+        <li data-thumb="{{ site.github.url }}/assets/img/img_jackson_2.jpg">
+            <img src="{{ site.github.url }}/assets/img/img_jackson_2.jpg" />
+        </li>
+        <li data-thumb="{{ site.github.url }}/assets/img/img_burlington.jpg">
+            <img src="{{ site.github.url }}/assets/img/img_burlington.jpg" />
+        </li>
+    </ul>
+</div>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#lightSlider').lightSlider({
+            gallery: true,
+            item: 1,
+            // loop: true,
+            // slideMargin: 0,
+            // thumbItem: 4
+
+            autoWidth: false,
+            slideMove: 1, // slidemove will be 1 if loop is true
+            slideMargin: 10,
+
+            // addClass: '',
+            // mode: "slide",
+            // useCSS: true,
+            cssEasing: 'ease', //'cubic-bezier(0.25, 0, 0.25, 1)',//
+            easing: 'linear', //'for jquery animation',////
+
+            speed: 500, //ms'
+            auto: true,
+            loop: true,
+            slideEndAnimation: true,
+            pause: 6000,
+
+            keyPress: false,
+            controls: true,
+
+            rtl:false,
+            adaptiveHeight:false,
+
+            vertical:false,
+            verticalHeight:500,
+            // vThumbWidth:100,
+
+            thumbItem:10,
+            pager: true,
+            galleryMargin: 5,
+            thumbMargin: 5,
+            currentPagerPosition: 'middle',
+
+            enableTouch:true,
+            enableDrag:true,
+            freeMove:true,
+            swipeThreshold: 40,
+        });
+    });
+</script>

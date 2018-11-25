@@ -1,28 +1,20 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-
       {% include head.html %}
-
-
   </head>
   <body>
+    <div class="site-header">
+        <h1 class="project-name">Ferrante Thompson Wedding</h1>
+        <h2 class="project-tagline">August 10th, 2019 at Snowbird</h2>
+    </div>
     <header class="page-header" role="banner">
-      <h1 class="project-name">Ferrante Thompson Wedding</h1>
-      <h2 class="project-tagline">August 10th, 2019 at Snowbird</h2>
     </header>
+
+    {% include nav.html %}
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-
-      {% for slide in site.slides %}
-        <article class="slide">
-            <iframe class="slideshow-iframe" src="{{ site.github.url }}{{ slide.url }}"></iframe>
-            <div class="sub-slideshow">
-                <h1>{{ slide.title }}</h1>
-            </div>
-        </article>
-      {% endfor %}
 
       <footer class="site-footer">
         <span class="site-footer-credits">This page was created by Matt Ferrante. He's busy, don't ask him to make you a website.</span>
