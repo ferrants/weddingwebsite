@@ -4,4 +4,4 @@ layout: default
 
 # Registry
 
-Please check back later for information about our registry.
+Please check back later for information about the registry.

@@ -8,6 +8,6 @@ Matt Ferrante and Meredith Thompson are getting married! They met and fell in lo
 
 This is a 21+ event, so leave your kids at home and get ready to party!
 
-Join us for the whole weekend. Check [here for more details](/details).
+Please join Matt and Meredith for the whole weekend. Check [here for more details](/details).
 
 {% include gallery.html %}
