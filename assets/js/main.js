@@ -23,7 +23,7 @@ $(function () {
 
 	$(document).ready(function () {
 		let quote_prefix = "This site was created by Matt Ferrante. ";
-		if (Math.random() > 0.30) {
+		if (Math.random() > 0.80) {
 			let alt_quote = alt_quotes[Math.floor(Math.random() * alt_quotes.length)];
 			$('#bottom-quote').text(quote_prefix + alt_quote);
 		}
