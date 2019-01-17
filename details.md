@@ -8,7 +8,7 @@ Matt and Meredith will be getting married at 4pm on Saturday, August 10th, 2019 
 
 ## Lodging
 
-Lodging will be available at the Cliff Lodge and other locations at Snowbird Ski Resort, in Little Cottonwood Canyon. Call 800-453-3000 and mention the "Thompson-Ferrante Wedding" to reserve a room at the Cliff Lodge. Alternatively, you can book online via [snowbird.com](http://www.snowbird.com) and use the wedding code, "2CK5SZ". If you run into any issues, don't hesitate to send Matt an email at mferrante3 \[at\] gmail \[dot\] com.
+Lodging will be available at the Cliff Lodge and other locations at Snowbird Ski Resort, in Little Cottonwood Canyon. Call 800-453-3000 and mention the "Thompson-Ferrante Wedding" to reserve a room at the Cliff Lodge. Alternatively, you can book online via [snowbird.com](http://www.snowbird.com) and use the wedding code, "2CK5SZ". If you run into any issues, don't hesitate to contact Matt or Meredith.
 
 Ask about the Mountain Condos at the Cliff Lodge if you're interested in two bedrooms with a living room space.
 
