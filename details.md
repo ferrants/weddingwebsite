@@ -24,6 +24,11 @@ The Lodge at Snowbird is right next to the Cliff Lodge and is a little bit cheap
 
 ## Location & Transportation
 
+The Cliff Lodge is located at:
+
+> 9320 Cliff Lodge Dr  
+> Snowbird UT, 84092
+
 Snowbird is located in Little Cottonwood Canyon, where you can enjoy hiking and biking. Nearby is Big Cottonwood Canyon with more of the same. Salt Lake City is at the bottom of the canyons and the airport there is a 30-40 minute drive from Snowbird.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3030.144194334829!2d-111.65634154895062!3d40.58257247924477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87526300d0d7b777%3A0xb61b88fd30f07ebd!2sThe+Cliff+Lodge!5e0!3m2!1sen!2sus!4v1547250775935" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
