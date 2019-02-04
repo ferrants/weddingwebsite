@@ -16,7 +16,7 @@ Matt and Meredith will be hosting a Farewell Brunch on Sunday, 8/11 from 9am to 
 
 ## Lodging
 
-Lodging will be available at the Cliff Lodge and other locations at Snowbird Ski Resort, in Little Cottonwood Canyon. Call 800-453-3000 and mention the "Thompson-Ferrante Wedding" to reserve a room at the Cliff Lodge. Alternatively, you can book online via [snowbird.com](http://www.snowbird.com) and use the wedding code, "2CK5SZ". Staying at the Cliff Lodge gets you access to the Cliff Lodge Spa included. If you run into any issues booking, don't hesitate to contact Matt or Meredith.
+Lodging will be available at the Cliff Lodge and other locations at Snowbird Ski Resort, in Little Cottonwood Canyon. Call 800-453-3000 and mention the "Thompson-Ferrante Wedding" to reserve a room at the Cliff Lodge. Alternatively, you can book online via [snowbird.com](http://www.snowbird.com) and use the wedding code, "2CK5SZ", but it is supposedly easier to call. Staying at the Cliff Lodge gets you access to the Cliff Lodge Spa included. The "Cliff Club" and "Cliff Lodge" are two sides of the same building, so if you are lodging in either, don't be worried. If you run into any issues booking, don't hesitate to contact Matt or Meredith.
 
 Ask about the Mountain Condos at the Cliff Lodge if you're interested in two bedrooms with a living room space. Most also have a hot tub.
 
@@ -36,3 +36,11 @@ Snowbird is located in Little Cottonwood Canyon, where you can enjoy hiking and 
 If you plan to just stay at Snowbird, you probably won't need a car. You can book a shuttle through Snowbird (800-453-3000) for $76 per person, but it would be cheaper to just take an Uber or Lyft from the airport, probably $40-$60 for the whole ride.
 
 If you're going to do more exploring around UT, you probably want to rent a car. Self-parking is free or you can do Valet at the lodge fo $12 a day.
+
+### Nearby Attractions
+
+- [Diamond Fork Hot Springs](https://goo.gl/maps/ybgjDGkq4in) is about a 45 minute drive south from Snowbird and is a nice two mile trail, ending at a hot spring.
+- [Lagoon Park](http://www.lagoonpark.com/) is about 45 minute drive north from Snowbird and is a fun amusement and water park.
+- National Parks in Southern Utah are 3-6 hours away to the south and include [Arches](https://www.nps.gov/arch/index.htm), [Canyonlands](https://www.nps.gov/cany/index.htm), [Zion](https://www.nps.gov/zion/index.htm), [Bryce](https://www.nps.gov/brca/index.htm), [Capitol Reef](https://www.nps.gov/care/index.htm).
+- The Uinta National Forest is about an hour to the East and has a ton of trails. [Notch Lake](https://www.alltrails.com/trail/us/utah/notch-lake) is one of our favorites.
+- There is a huge network of hiking and mountain biking trails, [this map](http://map.mountaintrails.org/) can show you most of them, AllTrails also has a bunch of good trail suggestions.
