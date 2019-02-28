@@ -4,7 +4,7 @@ layout: default
 
 # Registry
 
-Matt and Meredith have been living together for a while and already have most of the household goods they want. Instead of sending a new set of knives or cast-iron skillet, Matt and Meredith are hoping you will consider helping with the Honeymoon!
+Matt and Meredith have been living together for a while and already have most of the household goods they need. Instead of sending a new set of knives or cast-iron skillet, Matt and Meredith are hoping you will consider helping them decide on the Honeymoon!
 
 The registry is still getting set up, we'll update with more details here!
 
