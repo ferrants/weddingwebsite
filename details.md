@@ -8,9 +8,9 @@ Matt and Meredith will be getting married at 4pm on Saturday, August 10th, 2019 
 
 ## Weekend Events
 
-Matt and Meredith will be hosting a Welcome Cocktails on Friday, 8/9 at 7pm at the Cliff Lodge.
+Matt and Meredith will be hosting a Welcome Cocktails on Friday, 8/9 at 7pm at the Cliff Lodge's Atrium Lounge.
 
-Wedding Ceremony is at 4pm on 8/10 at the Cliff Lodge.
+Wedding Ceremony is at 4pm on 8/10 at the Cliff Lodge's Magpie Terrace.
 
 Matt and Meredith will be hosting a Farewell Brunch on Sunday, 8/11 from 9am to 11am at the Snowbird Center.
 
@@ -43,4 +43,4 @@ If you're going to do more exploring around UT, you probably want to rent a car.
 - [Lagoon Park](http://www.lagoonpark.com/) is about 45 minute drive north from Snowbird and is a fun amusement and water park.
 - National Parks in Southern Utah are 3-6 hours away to the south and include [Arches](https://www.nps.gov/arch/index.htm), [Canyonlands](https://www.nps.gov/cany/index.htm), [Zion](https://www.nps.gov/zion/index.htm), [Bryce](https://www.nps.gov/brca/index.htm), [Capitol Reef](https://www.nps.gov/care/index.htm).
 - The Uinta National Forest is about an hour to the East and has a ton of trails. [Notch Lake](https://www.alltrails.com/trail/us/utah/notch-lake) is one of our favorites.
-- There is a huge network of hiking and mountain biking trails, [this map](http://map.mountaintrails.org/) can show you most of them, AllTrails also has a bunch of good trail suggestions.
+- There is a huge network of hiking and mountain biking trails, [this map](http://map.mountaintrails.org/) can show you most of them, AllTrails also has a bunch of good trail suggestions. One of our favorite quick hikes is to the peak of 10420, at the top of Guardsman's Pass in Big Cottonwood Canyon.
