@@ -14,8 +14,6 @@ Feel free to the registry and send your love directly to us at:
 
 ## Online Registry
 
-<a class="zola-registry-embed" href="www.zola.com/registry/mattandmeredithaugust10" data-registry-key="mattandmeredithaugust10">Our Wedding Registry on Zola</a><script>!function(e,t,n){var s,a=e.getElementsByTagName(t)[0];e.getElementById(n)||(s=e.createElement(t),s.id=n,s.async=!0,s.src="https://widget.zola.com/js/widget.js",a.parentNode.insertBefore(s,a))}(document,"script","zola-wjs");</script>
-
-## REI
-
 Find our [REI Registry Here](https://www.myregistry.com/rei/wedding-registry/Meredith-Thompson-and-Matt-Ferrante-Park-City-UT/1870954)
+
+<a class="zola-registry-embed" href="www.zola.com/registry/mattandmeredithaugust10" data-registry-key="mattandmeredithaugust10">Our Wedding Registry on Zola</a><script>!function(e,t,n){var s,a=e.getElementsByTagName(t)[0];e.getElementById(n)||(s=e.createElement(t),s.id=n,s.async=!0,s.src="https://widget.zola.com/js/widget.js",a.parentNode.insertBefore(s,a))}(document,"script","zola-wjs");</script>
