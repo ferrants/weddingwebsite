@@ -6,7 +6,7 @@ layout: default
 
 Matt and Meredith have been living together for a while and already have most of the household goods they need. Instead of sending a new set of knives or cast-iron skillet, Matt and Meredith are hoping you will consider helping them decide on their Honeymoon to either Europe or New Zealand by contributing to either one and leaving them a note about what they should do there. The contributions towards the "losing" Honeymoon will go toward the winning one!
 
-Feel free to the registry and send your love directly to us at:
+Feel free to skip the registry and send your love directly to us at:
 
 > Matt Ferrante & Meredith Thompson  
 > 900 Bitner Road G11  
