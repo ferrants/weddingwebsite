@@ -10,9 +10,16 @@ Matt and Meredith will be getting married at 4pm on Saturday, August 10th, 2019 
 
 Matt and Meredith will be hosting a Welcome Cocktails on Friday, 8/9 at 7pm at the Cliff Lodge's Atrium Lounge.
 
-Wedding Ceremony is at 4pm on 8/10 at the Cliff Lodge's Magpie Terrace.
+Wedding Ceremony is at 4pm on 8/10 at the Cliff Lodge's Magpie Terrace, followed by dinner and dancing at the same location.
 
 Matt and Meredith will be hosting a Farewell Brunch on Sunday, 8/11 from 9am to 11am at the Snowbird Center.
+
+## Wedding Attire
+
+Matt and Meredith ask that you wear [cocktail attire](http://lmgtfy.com/?q=cocktail+attire) to the wedding ceremony and reception. A couple tips:
+- Wear pants nicer than your jeans
+- Don't wear a white dress, you should know better than that
+- Wear comfy shoes that you can dance all night in. Ladies, bring flats to change into if you want.
 
 ## Lodging
 
