@@ -17,8 +17,8 @@ Matt and Meredith will be hosting a Farewell Brunch on Sunday, 8/11 from 9am to 
 ## Wedding Attire
 
 Matt and Meredith ask that you wear [cocktail attire](http://lmgtfy.com/?q=cocktail+attire) to the wedding ceremony and reception. A couple tips:
-- Wear pants nicer than your jeans
-- Don't wear a white dress, you should know better than that
+- Wear pants nicer than your jeans.
+- Don't wear a white dress. You should know better than that.
 - Wear comfy shoes that you can dance all night in. Ladies, bring flats to change into if you want.
 
 ## Lodging
