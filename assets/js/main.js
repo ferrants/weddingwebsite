@@ -1,15 +1,12 @@
 const alt_quotes = [
 	"He's busy, please don't ask him to make you a website.",
+	"He's busy planning a wedding, please don't asks him to make you a website.",
 	"He is really busy, don't ask him to make you a website.",
-	"He's busy, you shouldn't ask him to make you a website.",
-	"He's busy, please don't ask him to make you a website.",
-	"He is really busy, don't ask him to make you a website.",
-	"He's busy, you shouldn't ask him to make you a website.",
-	"He's busy, please don't ask him to make you a website.",
-	"He is really busy, don't ask him to make you a website.",
-	"He's busy, you shouldn't ask him to make you a website.",
+	"He is really busy planning a wedding, don't ask him to make you a website right now.",
+	"He is busy, you shouldn't ask him to make you a website.",
 
 	"Need a website? Ask Matt!",
+	"Thanks for stopping by!",
 ];
 
 $(function () {
@@ -23,7 +20,7 @@ $(function () {
 
 	$(document).ready(function () {
 		let quote_prefix = "This site was created by Matt Ferrante. ";
-		if (Math.random() > 0.80) {
+		if (Math.random() > 0.85) {
 			let alt_quote = alt_quotes[Math.floor(Math.random() * alt_quotes.length)];
 			$('#bottom-quote').text(quote_prefix + alt_quote);
 		}
