@@ -7,6 +7,11 @@ const alt_quotes = [
 
 	"Need a website? Ask Matt!",
 	"Thanks for stopping by!",
+	"Have a wonderful day!",
+
+	"Get Meredith a sweet mountain bike!",
+	"Our wedding hashtag is #MeredithAndMattrimony.",
+	"Let the photographer take the pictures."
 ];
 
 $(function () {
@@ -20,7 +25,7 @@ $(function () {
 
 	$(document).ready(function () {
 		let quote_prefix = "This site was created by Matt Ferrante. ";
-		if (Math.random() > 0.85) {
+		if (Math.random() > 0.75) {
 			let alt_quote = alt_quotes[Math.floor(Math.random() * alt_quotes.length)];
 			$('#bottom-quote').text(quote_prefix + alt_quote);
 		}
