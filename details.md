@@ -10,7 +10,7 @@ Matt and Meredith will be getting married at 4pm on Saturday, August 10th, 2019 
 
 Matt and Meredith will be hosting a Welcome Cocktails on Friday, 8/9 at 7pm at the Cliff Lodge's Atrium Lounge.
 
-Wedding Ceremony is at 4pm on 8/10 at the Cliff Lodge's Magpie Terrace, followed by dinner and dancing at the same location.
+Wedding Ceremony is at 4pm on 8/10 at the Cliff Lodge's Magpie Terrace, followed by dinner and dancing with musical performance by [Shuffle](https://www.shuffleslc.com/) at the same location.
 
 Matt and Meredith will be hosting a Farewell Brunch on Sunday, 8/11 from 9am to 11am at the Snowbird Center.
 
