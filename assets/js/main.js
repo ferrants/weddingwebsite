@@ -1,6 +1,6 @@
 const alt_quotes = [
 	"He's busy, please don't ask him to make you a website.",
-	"He's busy planning a wedding, please don't asks him to make you a website.",
+	"He's busy planning a wedding, please don't ask him to make you a website.",
 	"He is really busy, don't ask him to make you a website.",
 	"He is really busy planning a wedding, don't ask him to make you a website right now.",
 	"He is busy, you shouldn't ask him to make you a website.",
@@ -8,6 +8,7 @@ const alt_quotes = [
 	"Need a website? Ask Matt!",
 	"Thanks for stopping by!",
 	"Have a wonderful day!",
+	"See you soon!",
 
 	"Get Meredith a sweet mountain bike!",
 	"Our wedding hashtag is #MeredithAndMattrimony.",
