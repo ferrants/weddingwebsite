@@ -11,7 +11,7 @@ const alt_quotes = [
 	"See you soon!",
 
 	"Get Meredith a sweet mountain bike!",
-	"Our wedding hashtag is #MeredithAndMattrimony.",
+	"Our wedding hashtag is #MerAndMattrimony.",
 	"Let the photographer take the pictures."
 ];
 
