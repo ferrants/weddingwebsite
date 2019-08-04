@@ -12,7 +12,7 @@ Matt and Meredith will be hosting a Welcome Cocktails on Friday, 8/9 at 7pm in t
 
 Wedding Ceremony is at 4pm on 8/10 at the Cliff Lodge's Magpie Terrace on level L1, followed by dinner and dancing with musical performance by [Shuffle](https://www.shuffleslc.com/) at the same location.
 
-Matt and Meredith will be hosting a Farewell Brunch on Sunday, 8/11 from 9am to 11am at the Snowbird Center, across the bridge on the west end of the Cliff Lodge's level L1.
+Matt and Meredith will be hosting a Farewell Brunch on Sunday, 8/11 from 10am to 11:30am at the Snowbird Center, across the bridge on the west end of the Cliff Lodge's level L1.
 
 ## Wedding Attire
 
